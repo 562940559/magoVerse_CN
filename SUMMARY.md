@@ -20,9 +20,10 @@
 * [Trading System](game-mechanism/trading-system.md)
 * [Earning Mechanism](game-mechanism/earning-mechanism.md)
 
-## MAGO Band
+## Product Parameters
 
-* [Parameter information](mago-band/parameter-information.md)
+* [MAGO Watch S](product-parameters/mago-watch-s.md)
+* [MAGO Watch Pro](product-parameters/mago-watch-pro.md)
 
 ## Token
 
