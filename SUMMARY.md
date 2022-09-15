@@ -2,41 +2,47 @@
 
 * [MAGO VERSE](README.md)
 
-## Preparation works
+## 入門準備 <a href="#gettingStarted" id="gettingStarted"></a>
 
-* [Registration](preparation-works/registration.md)
-* [Activate your MAGO Band](preparation-works/activate-your-mago-band.md)
+* [完成註冊](gettingStarted/completeRegistration.md)
+* [購買並啟動設備](<gettingStarted/startUp .md>)
 
-## Game Mechanism
+## 遊戲機制 <a href="#gameMechanism" id="gameMechanism"></a>
 
-* [SOLO Challenge Task (100 Power)](game-mechanism/solo-challenge-task-100-power.md)
-* [Holiday Mission](game-mechanism/holiday-mission.md)
-* [Mystery Blind Box](game-mechanism/mystery-blind-box.md)
-* [Pet Boost](game-mechanism/pet-boost.md)
-* [Guild Mission Challenge（40000 Globetrot）](game-mechanism/guild-mission-challenge-40000-globetrot.md)
-* [Global Difficulty Challenge](game-mechanism/global-difficulty-challenge.md)
-* [Special Status](game-mechanism/special-status.md)
-* [NFT PET](game-mechanism/nft-pet.md)
-* [Trading System](game-mechanism/trading-system.md)
-* [Earning Mechanism](game-mechanism/earning-mechanism.md)
+* [SOLO任務挑戰](gameMechanism/solo.md)
+* [神秘盲盒](gameMechanism/box.md)
+* [寵物提升](gameMechanism/petPromotion.md)
+* [公會任務挑戰](gameMechanism/guildChallenge.md)
+* [全球難度挑戰](gameMechanism/globalChallenge.md)
+* [特殊狀態](gameMechanism/specialStatus.md)
+* [節日任務（開發中）](gameMechanism/holidayTasks.md)
+* [NFT寵物系統](gameMechanism/pet.md)
+* [交易系統](gameMechanism/transaction.md)
+* [收益機制](gameMechanism/profit.md)
+* [邀請機制](gameMechanism/invite.md)
 
-## Product Parameters
+## 智能手環參數 <a href="#braceletParameters" id="braceletParameters"></a>
 
-* [MAGO Watch S](product-parameters/mago-watch-s.md)
-* [MAGO Watch Pro](product-parameters/mago-watch-pro.md)
+* [參數資訊](braceletParameters/information.md)
 
-## Token
+## 通證設計 <a href="#pass" id="pass"></a>
 
-* [MAGO](token/mago/README.md)
-  * [Application Scenarios of MAGO](token/mago/application-scenarios-of-mago.md)
-* [MTC](token/mtc/README.md)
-  * [Application Scenarios of MTC](token/mtc/application-scenarios-of-mtc.md)
-* [Token Economic](token/token-economic.md)
+* [定義](pass/define.md)
 
-## Anti-Cheating System
+## 積分經濟 <a href="#integralEconomy" id="integralEconomy"></a>
 
-* [Introduce](anti-cheating-system/introduce.md)
+* [MAGO積分](integralEconomy/mago.md)
+* [MTC積分（邀請通證獎勵）](integralEconomy/mtc.md)
 
-## Privacy
+## 社區治理 <a href="#government" id="government"></a>
 
-* [Introduce](privacy/introduce.md)
+* [團隊信息](government/information.md)
+* [團隊利潤](government/profit.md)
+
+## 反作弊系統 <a href="#antiCheating" id="antiCheating"></a>
+
+* [反作弊系統介紹](antiCheating/introduction.md)
+
+## 隱私 <a href="#privacy" id="privacy"></a>
+
+* [隱私相關](privacy/about.md)
