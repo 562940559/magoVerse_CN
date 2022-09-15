@@ -10,6 +10,10 @@ coverY: 0
 **MAGO** is an application focused on **web3** sports which are based on **Game-Fi** (Gaming Finance) and **Social-Fi** (Social Finance)
 {% endhint %}
 
+**Introduction**
+
+MAGO is an application focused Sports+NFT+DeFi which are based on Game-Fi (Gaming Finance) and Social-Fi (Social Finance)
+
 The original intention of **MAGO** is to provide a solution to solve the lifestyle that led to sub-healthy globally and to stimulate the passion for exercise that could definitely improve our health condition.
 
 This solution is empowered by the combination of electronic products and blockchain technology, which will effectively act out the concept of "exercise data generate revenue" ( one of Play to Earn mechanisms)
